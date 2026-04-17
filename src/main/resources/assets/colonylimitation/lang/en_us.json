@@ -1,0 +1,9 @@
+{
+  "colonylimitation.configuration.title": "ColonyLimitation Configs",
+  "colonylimitation.configuration.section.colonylimitation.server.toml": "ColonyLimitation Server Config",
+  "colonylimitation.configuration.section.colonylimitation.server.toml.title": "ColonyLimitation Server Config",
+  "colonylimitation.configuration.maxColoniesGlobal": "Max Colonies (Global)",
+  "colonylimitation.configuration.devModeAllowMultipleColoniesPerPlayer": "Dev Mode: Allow Multiple Colonies Per Player",
+
+  "message.colonylimitation.limit_reached": "Global colony limit reached (%s). The colony was removed."
+}

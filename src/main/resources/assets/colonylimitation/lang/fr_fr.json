@@ -1,0 +1,9 @@
+{
+  "colonylimitation.configuration.title": "Configuration ColonyLimitation",
+  "colonylimitation.configuration.section.colonylimitation.server.toml": "Configuration serveur ColonyLimitation",
+  "colonylimitation.configuration.section.colonylimitation.server.toml.title": "Configuration serveur ColonyLimitation",
+  "colonylimitation.configuration.maxColoniesGlobal": "Nombre max de colonies (global)",
+  "colonylimitation.configuration.devModeAllowMultipleColoniesPerPlayer": "Mode dev : autoriser plusieurs colonies par joueur",
+
+  "message.colonylimitation.limit_reached": "Limite globale de colonies atteinte (%s). La colonie a ete supprimee."
+}
